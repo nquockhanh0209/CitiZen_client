@@ -1,0 +1,56 @@
+.menu {
+    background-color: rgb(19, 18, 18);
+    height: 667px;
+}
+.logo_name {
+    color: #fff;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    text-align: center;
+}
+.nav-text {
+    text-decoration: none;
+    color: #f5f5f5;
+    font-size: 18px;
+    width: 95%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 15px 26px;
+    border-radius: 4px;
+}
+span {
+    margin-left: 16px;
+}
+.link {
+    text-decoration: none;
+}
+li.nav-text:hover {
+    background-color: #fff;
+    color: #000;
+}
+.account {
+    text-decoration: none;
+    width: 95%;
+    height: 100%;
+    color: #fff;
+    margin-left: 0px;
+    text-align: center;
+    padding: 15px;
+    padding-right: 100px;
+    border-radius: 4px;
+    font-size: 16px;
+}
+.icons {
+    font-size: 30px;
+}
+.lastnav {
+    margin-top: 260px;
+    padding-bottom: 16px;
+    width: 100%;
+    margin-left: 30px;
+}
+.account:hover {
+    background-color: #fff;
+    color: #000;
+}

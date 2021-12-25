@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+.home,
+.searchpeople,
+.inforuser,
+.usermanager{
+  flex: 3;
+}
+.container_main{
+  display: flex;
+}
+.menu {
+  flex: 1;
+}
+.home {
+  display: flex;
+}
+.map,
+.chart {
+  flex: 1;
+}
+
